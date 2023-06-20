@@ -42,8 +42,8 @@ grid-area: img;
 nav {
 margin: 50px;
 text-decoration: none;
-border-top: black solid 0.5px;
-border-bottom: black solid 0.5px;
+border-top: black solid 1px;
+border-bottom: black ridge 0.5px;
 align-items: center;
 justify-content:ce ;
 display: grid;
@@ -93,7 +93,9 @@ text-align: center;
 
 
 .divok
-{display: flex;
+{
+padding: 45px;
+display: flex;
 flex-direction: row;
 margin: 10px;}
 
@@ -101,16 +103,22 @@ margin: 10px;}
     display: flex;
     flex-direction: column;
     align-items: center;
-    padding: 15px;
+    padding: 10px;
+    border: 2px;
+    border-top-style: ridge  ;
     margin: 1px;
-    font-size: 15px;
+    font-size: 12px;
     font-weight: 200;
     font-style: unset;
     text-align: left;
     text-decoration: solid;
     font-family: 'Alegreya Sans', sans-serif}
 
+    .imgfooter{
+    width: 50%;
+    }
 
+.paddingquienes{padding: 45px;}
 
 .antesydespues{
 background-color: bisque;
@@ -137,7 +145,7 @@ align-content: center;
 }
 
 
-.carrusel {padding: 10px;}
+.carrusel {padding: 10px 45px 45px 45px;}
 
 
 .divquienes {
@@ -188,6 +196,8 @@ height: 90px;
 
 
 .divproy {
+    padding: 45px;
+
     display: grid;
     grid-template-columns: 1fr 1fr  ;
     grid-template-rows: 1fr 1fr;
@@ -239,3 +249,4 @@ height: 50px;
    grid-template-rows: 1fr 1fr 1fr 1fr;
 }
 }
+
