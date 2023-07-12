@@ -1,0 +1,123 @@
+body {
+padding: 0px;
+margin: 0px;
+}
+
+.titulos {
+padding: 30px;
+color: black;
+font-family: 'Alegreya Sans', sans-serif;
+font-size: 35px;
+font-weight: 200;
+font-style: unset;
+text-align: center;
+text-decoration: solid;
+}
+
+
+p {padding: 4px;
+    font-family: 'Alegreya Sans', sans-serif;}
+
+h2 {color: black;
+    padding: 10px;
+    margin: 10px;
+    font-size: 25px;
+    font-weight: 200px;
+    font-style: unset;
+    text-align: left;
+    text-decoration: solid;
+    font-family: 'Alegreya Sans', sans-serif;
+    }
+
+.imagenclass {
+align-content: center;
+}
+
+
+main div div div a {
+    text-decoration: none;
+    color: black;
+    }
+
+
+.dosfotos {
+padding: 20px;
+        }
+        
+*BARRA NAVEGACION
+.imagennav {width: 80px;}
+
+
+*PROYECTOS
+
+.divboot {
+ justify-content: center;
+align-items: center;}
+    
+.imgboot1 
+{width: 100%;}
+    
+.imgboot2 {width: 200px; padding: 10px; justify-content: center; align-items: center;}
+.imgboot3 {width: 400px;}
+    
+.ok :hover {transform: scale(1.8);
+               transition: all 1.8s;}
+    
+.cajaproy {padding: 30px;
+                border: none;}
+
+
+*PRENSA
+.botoncard {
+border: 2px solid black; 
+padding: 3px;
+font-size: 15px;
+}
+
+.card {border: none;
+    background-color: ghostwhite;
+    height: 50px;
+    }
+
+
+*QUIENES
+
+.cajaquienes {
+    padding: 30px;
+    }
+
+.paddingquienes{padding: 45px;}
+
+.imagenquienes {
+    width: 100%;
+    } 
+
+
+
+*CONTACTO 
+.mapa {padding: 30px;
+justify-content: center;
+align-items: center;
+width: 90%;
+}
+
+
+*ANTESYDESPUES 
+
+.contenidoantes
+{width: 100%;
+padding: 10px;}
+
+.antesydespues{
+    background-color: bisque;
+    margin: 20px;
+    padding: 10px;
+    text-align: center;
+    align-items: center;
+    height: 330px;}
+
+
+*INDEX
+.carrusel {width: 100%;}
+
+/*# sourceMappingURL=style.css.map */
