@@ -1,15 +1,18 @@
 .divboot {
     justify-content: center;
-   align-items: center;}
-       
-   .imgboot1 
-   {width: 100%;}
-       
-   .imgboot2 {width: 200px; padding: 10px; justify-content: center; align-items: center;}
-   .imgboot3 {width: 400px;}
-       
-   .ok :hover {transform: scale(1.8);
-                  transition: all 1.8s;}
-       
-   .cajaproy {padding: 30px;
-                   border: none;}
+    align-items: center;}
+    
+    .imgboot1 
+    {width: 100%;}
+    
+    .imgboot2 {width: 200px; padding: 10px; justify-content: center; align-items: center;}
+    .imgboot3 {width: 400px;}
+    
+    .ok :hover {transform: scale(1.8);
+               transition: all 1.8s;}
+    
+    .cajaproy {padding: 30px;
+                border: none;}
+
+    .card {transition: all 0.3s;}
+    .card:hover {transform: scale(1.05);}
