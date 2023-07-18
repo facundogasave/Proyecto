@@ -47,8 +47,8 @@
 }
 
 .contenidoantes {
-  width: 100%;
-  padding: 10px;
+  width: 85%;
+  padding: 5px;
 }
 
 .antesydespues {
@@ -91,18 +91,14 @@
 
 .cardquienes {
   padding-top: 30px;
-  padding-bottom: 70px;
+  padding-bottom: 500px;
   height: 400px;
   justify-content: center;
 }
 
 .imagenquienes {
-  width: 80%;
+  width: 490px;
   padding-right: 10px;
-}
-
-.paddingquienes {
-  padding: 45px;
 }
 
 body {
