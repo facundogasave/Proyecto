@@ -4,14 +4,6 @@
   padding: 0;
 }
 
-.imagennav {
-  width: 80px;
-}
-
-.navpadding {
-  padding: 20px;
-}
-
 .divboot {
   justify-content: center;
   align-items: center;
@@ -24,8 +16,6 @@
 .imgboot2 {
   width: 200px;
   padding: 10px;
-  justify-content: center;
-  align-items: center;
 }
 
 .imgboot3 {
@@ -103,25 +93,15 @@
 }
 
 .cardquienes {
-  padding-top: 30px;
-  height: 600px;
-  justify-content: center;
+  margin-top: 120px;
 }
 
-.imagenquienes1 {
-  width: 80%;
-}
-
-.imagenquienes2 {
-  width: 60%;
-}
-
-.imagenquienes3 {
-  width: 80%;
+.imquie {
+  width: 70%;
 }
 
 body {
-  padding: 30px;
+  padding: 10px;
   margin: 70px;
   overflow-x: hidden;
 }
@@ -157,6 +137,15 @@ h2 {
 main div div div a {
   text-decoration: none;
   color: black;
+}
+
+.cajacontacto {
+  padding: 50px;
+  border: solid black 1px;
+}
+
+.mapa {
+  width: 100%;
 }
 
 /*# sourceMappingURL=main.css.map */
