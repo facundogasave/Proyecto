@@ -8,6 +8,10 @@
   width: 80px;
 }
 
+.navpadding {
+  padding: 20px;
+}
+
 .divboot {
   justify-content: center;
   align-items: center;
@@ -73,6 +77,15 @@
   font-size: 15px;
 }
 
+.foto4 {
+  height: 430px;
+  width: 80%;
+}
+
+.fotos123 {
+  justify-content: center;
+}
+
 .carrusel {
   width: 100%;
 }
@@ -91,19 +104,26 @@
 
 .cardquienes {
   padding-top: 30px;
-  padding-bottom: 500px;
-  height: 400px;
+  height: 600px;
   justify-content: center;
 }
 
-.imagenquienes {
-  width: 490px;
-  padding-right: 10px;
+.imagenquienes1 {
+  width: 80%;
+}
+
+.imagenquienes2 {
+  width: 60%;
+}
+
+.imagenquienes3 {
+  width: 80%;
 }
 
 body {
-  padding: 0px;
-  margin: 0px;
+  padding: 30px;
+  margin: 70px;
+  overflow-x: hidden;
 }
 
 .titulos {
