@@ -40,42 +40,6 @@
   transform: scale(1.05);
 }
 
-.contenidoantes {
-  width: 85%;
-  padding: 5px;
-}
-
-.antesydespues {
-  background-color: bisque;
-  margin: 20px;
-  padding: 10px;
-  text-align: center;
-  align-items: center;
-  height: 330px;
-  color: black;
-}
-
-.card {
-  border: none;
-  background-color: ghostwhite;
-  height: 50px;
-}
-
-.botoncard {
-  border: 2px solid black;
-  padding: 3px;
-  font-size: 15px;
-}
-
-.foto4 {
-  height: 430px;
-  width: 80%;
-}
-
-.fotos123 {
-  justify-content: center;
-}
-
 .carrusel {
   width: 100%;
 }
@@ -110,27 +74,10 @@ body {
   padding: 20px;
   color: black;
   font-family: "Alegreya Sans", sans-serif;
-  font-size: 35px;
-  font-weight: 200;
-  font-style: unset;
-  text-align: center;
-  text-decoration: solid;
 }
 
 p {
   padding: 4px;
-  font-family: "Alegreya Sans", sans-serif;
-}
-
-h2 {
-  color: black;
-  padding: 10px;
-  margin: 10px;
-  font-size: 25px;
-  font-weight: 200px;
-  font-style: unset;
-  text-align: left;
-  text-decoration: solid;
   font-family: "Alegreya Sans", sans-serif;
 }
 
