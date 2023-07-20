@@ -52,6 +52,7 @@
 
 .card {
   border: none;
+  padding: 30px;
   background-color: ghostwhite;
   height: 50px;
 }
@@ -85,8 +86,7 @@ main div div div a {
 }
 
 .cajacontacto {
-  padding: 50px;
-  border: solid black 1px;
+  padding: 40px;
 }
 
 .mapa {
